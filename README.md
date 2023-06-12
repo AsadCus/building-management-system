@@ -1,4 +1,4 @@
-## About Laravel
+## About
 
 Web manajemen sistem.
 
